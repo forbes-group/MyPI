@@ -6,11 +6,11 @@ Python projects.  You can install any version here by adding the index file to
 pip with the ``--find-links`` (``-f``) flag or by setting the
 ``PIP_FIND_LINKS`` environment variable::
 
-   pip install -f https://bitbucket.org/mforbes/mypi/index.html ...
+   pip install -f https://bitbucket.org/mforbes/mypi/src/tip/README.rst ...
 
 or::
 
-   export PIP_FIND_LINKS=https://bitbucket.org/mforbes/mypi/index.html
+   export PIP_FIND_LINKS=https://bitbucket.org/mforbes/mypi/src/tip/README.rst
    pip install ...
 
 
@@ -44,3 +44,15 @@ something similar to the `basketweaver
 <https://pypi.python.org/pypi/basketweaver/>`_ project.  The idea is to link
 all distributions I want to manage into a common place, then inspect the
 repos to get the tags and branches that form valid revisions.
+
+One issue `discussed here
+<https://groups.google.com/forum/#!topic/python-virtualenv/JO135HL9S7s>`_ is
+that ``pip`` requires the content delivered over the web with Content-Type
+``'text/html'`` whereas I would like to use the file
+
+* https://bitbucket.org/mforbes/mypi/raw/tip/index.html
+
+which is delivered as Content-Type ``'text/plain'``.  The use of the rendered
+``README.rst`` (this file) is a functional workaround, but seems a bit
+dangerous since it appears on a page with a bunch of other links from bitbucket
+that might confuse ``pip``.
