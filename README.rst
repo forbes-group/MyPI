@@ -11,11 +11,14 @@ directories ending in slashes will serve the appropriate `index files
 <http://peak.telecommunity.com/DevCenter/EasyInstall#package-index-api>`_,
 thus I must also host these in a separate place::
 
-   pip install --extra-index-url=https://mforbes.bitbucket.org/mypi/index/
+   pip install --extra-index-url = http://mforbes.bitbucket.org/mypi/index/ \
+               --trusted-host mforbes.bitbucket.org ...
 
 or::
 
-   export PIP_EXTRA_INDEX_URL=https://mforbes.bitbucket.org/mypi/index/
+   export PIP_EXTRA_INDEX_URL=http://mforbes.bitbucket.org/mypi/index/
+   export PIP_TRUSTED_HOST=mforbes.bitbucket.org
+   pip install ...
 
 I hope at some point to figure out how to simply host these here:
 
