@@ -13,6 +13,25 @@ or::
    export PIP_FIND_LINKS=https://bitbucket.org/mforbes/mypi/index.html
    pip install ...
 
+
+Package Index
++++++++++++++
+
+Here is the package index:
+
+mmfutils Distributions
+----------------------
+ * `mmfutils-0.4.1 <https://bitbucket.org/mforbes/mmfutils/get/0.4.1.tar.bz2#egg=mmfutils-0.4.1>`_
+ * `mmfutils-0.4.2 <https://bitbucket.org/mforbes/mmfutils/get/0.4.2.tar.bz2#egg=mmfutils-0.4.2>`_
+ * `mmfutils-0.4.3 <https://bitbucket.org/mforbes/mmfutils/get/0.4.3.tar.bz2#egg=mmfutils-0.4.3>`_
+ * `mmfutils-0.4 <https://bitbucket.org/mforbes/mmfutils/get/0.4.tar.bz2#egg=mmfutils-0.4>`_
+
+persist Distributions
+---------------------
+ * `persist-0.9 <https://bitbucket.org/mforbes/persist/get/0.9.tar.bz2#egg=persist-0.9>`_
+ * `persist-0.9b2 <https://bitbucket.org/mforbes/persist/get/0.9b2.tar.bz2#egg=persist-0.9b2>`_
+
+
 Development Notes
 +++++++++++++++++
 
