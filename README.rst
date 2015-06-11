@@ -36,7 +36,7 @@ pytimeode Distributions
 -----------------------
 Note: These are private.  You must have read permission to use them.
  * `pytimeode-0.2 <https://bitbucket.org/mforbes/pytimeode/get/0.2.tar.bz2#egg=pytimeode-0.2>`_
- * `pytimeode-0.3dev <https://bitbucket.org/mforbes/pytimeode/get/0.3def.tar.bz2#egg=pytimeode-0.3dev>`_
+ * `pytimeode-0.3dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.3#egg=pytimeode-0.3dev>`_
 
 
 Development Notes
