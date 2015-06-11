@@ -34,8 +34,10 @@ persist Distributions
 
 pytimeode Distributions
 -----------------------
-Note: These are private.  You must have read permission to use them.
- * `pytimeode-0.2 <https://bitbucket.org/mforbes/pytimeode/get/0.2.tar.bz2#egg=pytimeode-0.2>`_
+Note: These are private.  You must have read permission to use them and ssh
+access.
+
+ * `pytimeode-0.2 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.2#egg=pytimeode-0.2>`_
  * `pytimeode-0.3dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.3#egg=pytimeode-0.3dev>`_
 
 
