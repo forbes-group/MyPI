@@ -32,6 +32,13 @@ persist Distributions
  * `persist-0.9b2 <https://bitbucket.org/mforbes/persist/get/0.9b2.tar.bz2#egg=persist-0.9b2>`_
 
 
+pytimeode Distributions
+-----------------------
+Note: These are private.  You must have read permission to use them.
+ * `pytimeode-0.2 <https://bitbucket.org/mforbes/pytimeode/get/0.2.tar.bz2#egg=pytimeode-0.2>`_
+ * `pytimeode-0.3dev <https://bitbucket.org/mforbes/pytimeode/get/0.3def.tar.bz2#egg=pytimeode-0.3dev>`_
+
+
 Development Notes
 +++++++++++++++++
 
