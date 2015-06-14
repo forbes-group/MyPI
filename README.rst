@@ -13,6 +13,10 @@ or::
    export PIP_FIND_LINKS=https://bitbucket.org/mforbes/mypi/src/tip/README.rst
    pip install ...
 
+or add the following to your ``requirements.txt`` file::
+
+   --find-links https://bitbucket.org/mforbes/mypi/src/tip/README.rst
+
 
 Package Index
 +++++++++++++
@@ -40,6 +44,11 @@ access.
  * `pytimeode-0.2 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.2#egg=pytimeode-0.2>`_
  * `pytimeode-0.3dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.3#egg=pytimeode-0.3dev>`_
 
+Not Mine
+--------
+Here are some packages that are not mine,:
+
+* `ipy_client_usage-0.2 <git+https://github.com/pelson/ipy_client_usage.git#egg=ipy_client_usage-0.2>`_
 
 Development Notes
 +++++++++++++++++
