@@ -6,14 +6,19 @@ Python projects.  You can install any version here by adding the index file to
 pip with the ``--find-links`` (``-f``) flag or by setting the
 ``PIP_FIND_LINKS`` environment variable::
 
-   pip install -f https://bitbucket.org/mforbes/mypi/src/tip/README.rst ...
+   pip install -f https://bitbucket.org/mforbes/mypi/ ...
 
 or::
 
-   export PIP_FIND_LINKS=https://bitbucket.org/mforbes/mypi/src/tip/README.rst
+   export PIP_FIND_LINKS=https://bitbucket.org/mforbes/mypi/
    pip install ...
 
 or add the following to your ``requirements.txt`` file::
+
+   --find-links https://bitbucket.org/mforbes/mypi/
+
+If you need a specific version, you can access the file as follows,
+replacing ``tip`` with the appropriate version number::
 
    --find-links https://bitbucket.org/mforbes/mypi/src/tip/README.rst
 
