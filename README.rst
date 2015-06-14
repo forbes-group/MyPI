@@ -49,7 +49,7 @@ Not Mine
 --------
 Here are some packages that are not mine,:
 
-* `ipy_client_usage-0.2 <git+https://github.com/pelson/ipy_client_usage.git#egg=ipy_client_usage-0.2>`_
+* `ipy_client_usage-0.3dev <git+https://github.com/mforbes/ipy_client_usage.git#egg=ipy_client_usage-0.3dev>`_
 
 Development Notes
 +++++++++++++++++
