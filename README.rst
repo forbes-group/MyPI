@@ -48,7 +48,8 @@ Note: These are private.  You must have read permission to use them and ssh
 access.
 
  * `pytimeode-0.2 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.2#egg=pytimeode-0.2>`_
- * `pytimeode-0.3dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.3#egg=pytimeode-0.3dev>`_
+ * `pytimeode-0.3 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.3#egg=pytimeode-0.3>`_
+ * `pytimeode-0.4dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.4#egg=pytimeode-0.4dev>`_
 
 Not Mine
 --------
