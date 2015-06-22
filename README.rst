@@ -57,6 +57,8 @@ Here are some packages that are not mine,:
 
 * `ipy_client_usage-0.3dev <git+https://github.com/mforbes/ipy_client_usage.git#egg=ipy_client_usage-0.3dev>`_
 
+* `pygsl-0.9.5 <http://downloads.sourceforge.net/project/pygsl/pygsl/pygsl-0.9.5/pygsl-0.9.5.tar.gz#egg=pygsl-0.9.5>`
+
 Development Notes
 +++++++++++++++++
 
