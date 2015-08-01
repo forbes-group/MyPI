@@ -59,6 +59,12 @@ Here are some packages that are not mine,:
 
 * `pygsl-0.9.5 <http://downloads.sourceforge.net/project/pygsl/pygsl/pygsl-0.9.5/pygsl-0.9.5.tar.gz#egg=pygsl-0.9.5>`
 
+The following patch is required for use with IPython 3.0 and above:
+
+* https://github.com/catherinedevlin/ipython_doctester/issues/6
+* https://github.com/catherinedevlin/ipython_doctester/pull/5
+* `ipython_doctester <git+https://github.com/jhamrick/ipython_doctester.git@update-display-data#egg=ipython_doctester>`
+
 Development Notes
 +++++++++++++++++
 
