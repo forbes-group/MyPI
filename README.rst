@@ -64,13 +64,23 @@ Here are some packages that are not mine,:
 
 * `ipy_client_usage-0.3dev <git+https://github.com/mforbes/ipy_client_usage.git#egg=ipy_client_usage-0.3dev>`_
 
-* `pygsl-0.9.5 <http://downloads.sourceforge.net/project/pygsl/pygsl/pygsl-0.9.5/pygsl-0.9.5.tar.gz#egg=pygsl-0.9.5>`
+* `pygsl-0.9.5 <http://downloads.sourceforge.net/project/pygsl/pygsl/pygsl-0.9.5/pygsl-0.9.5.tar.gz#egg=pygsl-0.9.5>`_
 
 The following patch is required for use with IPython 3.0 and above:
 
 * https://github.com/catherinedevlin/ipython_doctester/issues/6
 * https://github.com/catherinedevlin/ipython_doctester/pull/5
-* `ipython_doctester <git+https://github.com/jhamrick/ipython_doctester.git@update-display-data#egg=ipython_doctester>`
+* `ipython_doctester <git+https://github.com/jhamrick/ipython_doctester.git@update-display-data#egg=ipython_doctester>`_
+
+The following fixes
+[pytest-flake8](https://github.com/tholo/pytest-flake8) so that it
+reads the configuration file:
+
+* `pytest-flake8-0.1a <git+https://github.com/mdevlamynck/pytest-flake8.git#egg=pytest-flake8-0.1a>`_
+
+Here is a package to strip output from a notebook:
+
+* `nbstripout-0.1 <git+https://github.com/kynan/nbstripout.git#egg=nbstripout-0.1>`_
 
 Development Notes
 +++++++++++++++++
