@@ -81,6 +81,7 @@ reads the configuration file:
 Here is a package to strip output from a notebook:
 
 * `nbstripout-0.1 <git+https://github.com/kynan/nbstripout.git#egg=nbstripout-0.1>`_
+* `nbstripout-0.1.1 <git+https://github.com/mforbes/nbstripout.git#egg=nbstripout-0.1.1>`_
 
 Development Notes
 +++++++++++++++++
