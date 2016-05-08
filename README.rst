@@ -36,8 +36,9 @@ mmfutils Distributions
  * `mmfutils-0.4.4 <https://bitbucket.org/mforbes/mmfutils/get/0.4.4.tar.bz2#egg=mmfutils-0.4.4>`_
  * `mmfutils-0.4.5 <https://bitbucket.org/mforbes/mmfutils/get/0.4.5.tar.bz2#egg=mmfutils-0.4.5>`_
  * `mmfutils-0.4.6 <https://bitbucket.org/mforbes/mmfutils/get/0.4.6.tar.bz2#egg=mmfutils-0.4.6>`_
+ * `mmfutils-0.4.7 <https://bitbucket.org/mforbes/mmfutils/get/0.4.7.tar.bz2#egg=mmfutils-0.4.7>`_
  * `mmfutils-0.4 <https://bitbucket.org/mforbes/mmfutils/get/0.4.tar.bz2#egg=mmfutils-0.4>`_
- * `mmfutils-0.4.7dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.7#egg=mmfutils-0.4.7dev>`_
+ * `mmfutils-0.4.8.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.8#egg=mmfutils-0.4.8.dev>`_
 
 
 persist Distributions
