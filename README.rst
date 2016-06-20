@@ -59,7 +59,8 @@ access.
  * `pytimeode-0.5 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.5#egg=pytimeode-0.5>`_
  * `pytimeode-0.6 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.6#egg=pytimeode-0.6>`_
  * `pytimeode-0.7 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.7#egg=pytimeode-0.7>`_
- * `pytimeode-0.8 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8#egg=pytimeode-0.8>`_
+ * `pytimeode-0.8 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8.1#egg=pytimeode-0.8.1>`_
+ * `pytimeode-0.8.1 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8.1#egg=pytimeode-0.8.1>`_
  * `pytimeode-0.9.dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.9#egg=pytimeode-0.9.dev0>`_
    
 Not Mine
