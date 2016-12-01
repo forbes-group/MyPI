@@ -30,6 +30,7 @@ Here is the package index:
 
 mmfutils Distributions
 ----------------------
+ * `mmfutils-0.4 <https://bitbucket.org/mforbes/mmfutils/get/0.4.tar.bz2#egg=mmfutils-0.4>`_
  * `mmfutils-0.4.1 <https://bitbucket.org/mforbes/mmfutils/get/0.4.1.tar.bz2#egg=mmfutils-0.4.1>`_
  * `mmfutils-0.4.2 <https://bitbucket.org/mforbes/mmfutils/get/0.4.2.tar.bz2#egg=mmfutils-0.4.2>`_
  * `mmfutils-0.4.3 <https://bitbucket.org/mforbes/mmfutils/get/0.4.3.tar.bz2#egg=mmfutils-0.4.3>`_
@@ -38,8 +39,8 @@ mmfutils Distributions
  * `mmfutils-0.4.6 <https://bitbucket.org/mforbes/mmfutils/get/0.4.6.tar.bz2#egg=mmfutils-0.4.6>`_
  * `mmfutils-0.4.7 <https://bitbucket.org/mforbes/mmfutils/get/0.4.7.tar.bz2#egg=mmfutils-0.4.7>`_
  * `mmfutils-0.4.8 <https://bitbucket.org/mforbes/mmfutils/get/0.4.8.tar.bz2#egg=mmfutils-0.4.8>`_
- * `mmfutils-0.4 <https://bitbucket.org/mforbes/mmfutils/get/0.4.tar.bz2#egg=mmfutils-0.4>`_
- * `mmfutils-0.4.9.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.9#egg=mmfutils-0.4.9.dev>`_
+ * `mmfutils-0.4.9 <https://bitbucket.org/mforbes/mmfutils/get/0.4.9.tar.bz2#egg=mmfutils-0.4.9>`_
+ * `mmfutils-0.4.10.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.10#egg=mmfutils-0.4.10.dev>`_
 
 
 persist Distributions
