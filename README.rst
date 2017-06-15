@@ -46,7 +46,7 @@ mmfutils Distributions
 persist Distributions
 ---------------------
  * `persist-0.9 <https://bitbucket.org/mforbes/persist/get/0.9.tar.bz2#egg=persist-0.9>`_
- * `persist-0.9b2 <https://bitbucket.org/mforbes/persist/get/0.9b2.tar.bz2#egg=persist-0.9b2>`_
+ * `persist-1.0.dev <hg+https://bitbucket.org/mforbes/persist/@1.0#egg=persist-1.0.dev>`_
 
 
 pytimeode Distributions
