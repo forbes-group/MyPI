@@ -40,13 +40,18 @@ mmfutils Distributions
  * `mmfutils-0.4.7 <https://bitbucket.org/mforbes/mmfutils/get/0.4.7.tar.bz2#egg=mmfutils-0.4.7>`_
  * `mmfutils-0.4.8 <https://bitbucket.org/mforbes/mmfutils/get/0.4.8.tar.bz2#egg=mmfutils-0.4.8>`_
  * `mmfutils-0.4.9 <https://bitbucket.org/mforbes/mmfutils/get/0.4.9.tar.bz2#egg=mmfutils-0.4.9>`_
- * `mmfutils-0.4.10.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.10#egg=mmfutils-0.4.10.dev>`_
+ * `mmfutils-0.4.10 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.10#egg=mmfutils-0.4.10>`_
+ * `mmfutils-0.4.11 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.11#egg=mmfutils-0.4.11>`_
+ * `mmfutils-0.4.12 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.12#egg=mmfutils-0.4.12>`_
+ * `mmfutils-0.5.0 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.5.0#egg=mmfutils-0.5.0>`_
+ * `mmfutils-0.5.1.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.5.1#egg=mmfutils-0.5.1.dev>`_
 
 
 persist Distributions
 ---------------------
  * `persist-0.9 <https://bitbucket.org/mforbes/persist/get/0.9.tar.bz2#egg=persist-0.9>`_
- * `persist-1.0.dev <hg+https://bitbucket.org/mforbes/persist/@1.0#egg=persist-1.0.dev>`_
+ * `persist-1.0 <https://bitbucket.org/mforbes/persist/get/1.0.tar.bz2#egg=persist-1.0>`_
+ * `persist-1.1.dev <hg+https://bitbucket.org/mforbes/persist/@1.1#egg=persist-1.1.dev>`_
 
 
 pytimeode Distributions
@@ -62,7 +67,8 @@ access.
  * `pytimeode-0.7 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.7#egg=pytimeode-0.7>`_
  * `pytimeode-0.8 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8.1#egg=pytimeode-0.8.1>`_
  * `pytimeode-0.8.1 <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8.1#egg=pytimeode-0.8.1>`_
- * `pytimeode-0.9.dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.9#egg=pytimeode-0.9.dev0>`_
+ * `pytimeode-0.9.dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.9#egg=pytimeode-0.9>`_
+ * `pytimeode-0.10.0.dev <hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.10.0#egg=pytimeode-0.10.dev>`_
    
 Not Mine
 --------
