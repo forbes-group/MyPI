@@ -44,7 +44,8 @@ mmfutils Distributions
  * `mmfutils-0.4.11 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.11#egg=mmfutils-0.4.11>`_
  * `mmfutils-0.4.12 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.4.12#egg=mmfutils-0.4.12>`_
  * `mmfutils-0.5.0 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.5.0#egg=mmfutils-0.5.0>`_
- * `mmfutils-0.5.1.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.5.1#egg=mmfutils-0.5.1.dev>`_
+ * `mmfutils-0.5.1 <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.5.1#egg=mmfutils-0.5.1>`_
+ * `mmfutils-0.5.2.dev <hg+https://bitbucket.org/mforbes/mmfutils-fork@0.5.2#egg=mmfutils-0.5.2.dev>`_
 
 
 persist Distributions
