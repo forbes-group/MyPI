@@ -70,7 +70,7 @@ access.
  * [`pytimeode-0.5`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.5/pytimeode-branch-0.5.tar.bz2#egg=pytimeode-0.5)
  * [`pytimeode-0.6`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.6/pytimeode-branch-0.6.tar.bz2#egg=pytimeode-0.6)
  * [`pytimeode-0.9`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.9/pytimeode-branch-0.9.tar.bz2#egg=pytimeode-0.9)
- * [`pytimeode-0.10.0.dev`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.10.0/pytimeode-branch-0.10.0.tar.bz2#egg=pytimeode-0.10.dev)
+ * [`pytimeode-0.10.0.dev`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.10.0/pytimeode-branch-0.10.0.tar.bz2#egg=pytimeode-0.10.0.dev)
    
  
 Not Mine
