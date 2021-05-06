@@ -65,18 +65,14 @@ pytimeode Distributions
 Note: These are private.  You must have read permission to use them and ssh
 access.
 
- * [`pytimeode-0.9.0`](https://alum.mit.edu/www/mforbes/hg/forbes-group/pytimeode/-/archive/branch/0.9.0.tar.bz2#egg=pytimeode-0.9.0)
- * [`pytimeode-0.2`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.2#egg=pytimeode-0.2)
- * [`pytimeode-0.3`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.3#egg=pytimeode-0.3)
- * [`pytimeode-0.4`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.4#egg=pytimeode-0.4)
- * [`pytimeode-0.5`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.5#egg=pytimeode-0.5)
- * [`pytimeode-0.6`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.6#egg=pytimeode-0.6)
- * [`pytimeode-0.7`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.7#egg=pytimeode-0.7)
- * [`pytimeode-0.8`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8.1#egg=pytimeode-0.8.1)
- * [`pytimeode-0.8.1`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.8.1#egg=pytimeode-0.8.1)
- * [`pytimeode-0.9.dev`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.9#egg=pytimeode-0.9)
- * [`pytimeode-0.10.0.dev`](hg+ssh://hg@bitbucket.org/mforbes/pytimeode@0.10.0#egg=pytimeode-0.10.dev)
+ * [`pytimeode-0.3`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.3/pytimeode-branch-0.3.tar.bz2#egg=pytimeode-0.3)
+ * [`pytimeode-0.4`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.4/pytimeode-branch-0.4.tar.bz2#egg=pytimeode-0.4)
+ * [`pytimeode-0.5`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.5/pytimeode-branch-0.5.tar.bz2#egg=pytimeode-0.5)
+ * [`pytimeode-0.6`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.6/pytimeode-branch-0.6.tar.bz2#egg=pytimeode-0.6)
+ * [`pytimeode-0.9`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.9/pytimeode-branch-0.9.tar.bz2#egg=pytimeode-0.9)
+ * [`pytimeode-0.10.0.dev`](https://hg.iscimath.org/forbes-group/pytimeode/-/archive/branch/0.10.0/pytimeode-branch-0.10.0.tar.bz2#egg=pytimeode-0.10.dev)
    
+ 
 Not Mine
 --------
 Here are some packages that are not mine,:
